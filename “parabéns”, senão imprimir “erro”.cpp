@@ -4,8 +4,6 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-/*atividade 1_questão 3
-		*/
 
 
 int main()<%
